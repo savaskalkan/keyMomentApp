@@ -8,3 +8,9 @@
 6. Go to ios folder open xcode project and press run button
 4. Run "npx react-native run-android"
 
+This app show key moments in the football match.
+Key moments are listed with their minitues in the match.
+Some of key moments are highlighted as goal, save, yellow card.
+And this highlighted moments are listed in bottom sheet in the app.
+When you press highlighted moments it scrools to that highlighted moment in scrollview.
+
